@@ -1,0 +1,20 @@
+{
+  "name": "services-class-mixin",
+  "version": "0.0.1",
+  "description": "A mixin for a simple, reusable Services implementation in Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nihilor/services-class-mixin.git"
+  },
+  "keywords": [],
+  "author": "Mark Lubkowitz <me@mlu.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nihilor/services-class-mixin/issues"
+  },
+  "homepage": "https://github.com/nihilor/services-class-mixin#readme"
+}
