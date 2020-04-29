@@ -2,15 +2,15 @@
   "name": "services-class-mixin",
   "version": "0.0.1",
   "description": "A mixin for a simple, reusable Services implementation in Javascript.",
-  "main": "index.js",
+  "main": "index.object.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ./examples/account.assign.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nihilor/services-class-mixin.git"
   },
-  "keywords": [],
+  "keywords": ["services", "calls", "provider", "consumer", "mixin", "pattern"],
   "author": "Mark Lubkowitz <me@mlu.io>",
   "license": "MIT",
   "bugs": {
